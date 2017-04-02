@@ -12,4 +12,6 @@ Using wunderground.com API
 
 Does not work on Safari
 
+## Surge
 
+rightful-apparel.surge.sh
